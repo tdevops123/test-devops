@@ -42,7 +42,7 @@
 	</head>
 	<body>
 		<button onclick="document.getElementById('myForm').style.display='block'">Login</button>
-		<h1 align="center">Hi T-Devops, WELCOME TO TOUCAN</h1>
+		<h1 align="center">Hi T-DEVOPS, WELCOME TO TOUCAN</h1>
 		<div class="modal" id="myForm">
 			<form class="modal-content animate">
 				<div class="container">
